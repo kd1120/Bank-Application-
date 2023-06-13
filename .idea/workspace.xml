@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f6e0bf1d-e26c-4931-be1a-149258dcb7a1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BankAccInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BankAccInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HdfcAcc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HdfcAcc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SbiAcc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SbiAcc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +47,23 @@
       <option name="presentableId" value="Default" />
       <updated>1686663094888</updated>
     </task>
+    <task id="LOCAL-00001" summary="cmmit">
+      <created>1686668314728</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686668314728</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="cmmit" />
+    <option name="LAST_COMMIT_MESSAGE" value="cmmit" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
